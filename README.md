@@ -1,0 +1,4 @@
+Developed a Dehazing model with object detection using Dark Channel Prior Algorithm and YOLOv5 for improved image clarity. 
+Implemented video dehazing using Dark Channel Prior Algorithm with structural similarity measurement, achieving high fidelity between dehazed and original videos. Additionally, integrated real-time object detection. 
+Built a user-friendly web application using Streamlit for video and object detection. This allows users to upload hazy videos and receive dehazed videos with identified objects. 
+Designed a system with the potential to significantly improve firefighter situational awareness during indoor fire emergencies. This is achieved by removing haze from video feeds and detecting humans/objects in real-time, ultimately aiding rescue efforts and minimizing property damage. 
